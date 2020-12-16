@@ -1,0 +1,15 @@
+{
+  "name": "sls-offline-auth-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^2.14.0",
+    "serverless-offline": "^6.8.0",
+    "serverless-webpack": "^5.3.5",
+    "webpack": "^5.10.3"
+  },
+  "dependencies": {}
+}
